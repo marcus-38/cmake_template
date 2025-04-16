@@ -1,0 +1,1 @@
+I am trying different styles of adding and using external libraries. In this template I create a thirdparty directory where I manually clone repos into and add it to the project in the main CMakeLists.txt file.
